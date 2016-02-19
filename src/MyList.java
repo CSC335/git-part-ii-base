@@ -20,7 +20,7 @@ public class MyList {
 
 	/**
 	 * Removes the last element of the list.
-	 * You don't need to implement this fully, hust have something that is a start
+	 * You don't need to implement this fully, must have something that is a start
 	 * using the appropriate structure.
 	 */
 	public void removeLast() {
